@@ -1,4 +1,4 @@
 # DADA-Forest
-A colloborative University of Arizona and US Forest Service Project  
+A colloborative project between the University of Arizona and the US Forest Service   
 
 
