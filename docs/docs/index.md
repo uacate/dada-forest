@@ -14,10 +14,12 @@
 [HydroGen](https://hydro-generation.org/)  
 [HydroFrame](https://hydroframe.org/)  
 
-**USDA**  
+**USDA - USFS**  
 [Forest Service Research Data Archive](https://www.fs.usda.gov/rds/archive/metadata/standards)  
 [US Forest Service Research and Development](https://www.fs.usda.gov/research/)  
 [SWRC DAP](https://www.tucson.ars.ag.gov/dap/)  
+[USDA - USFS - RDA](https://www.fs.usda.gov/rds/archive/metadata)  
+[Reference Article](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.548)  
 
 **FGDC**  
 [Content Standard for Digital Geospatial Metadata, Part 1:](https://www.fgdc.gov/standards/projects/metadata/biometadata)  
