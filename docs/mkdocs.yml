@@ -1,1 +1,9 @@
 site_name: DADA-Forest
+nav:
+  - Home: index.md
+  - Needs Analysis: needs-analysis.md
+  - About: about.md
+theme: readthedocs
+markdown_extensions:
+  - attr_list
+  - tables
