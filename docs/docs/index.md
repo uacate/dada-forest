@@ -20,6 +20,7 @@
 [SWRC DAP](https://www.tucson.ars.ag.gov/dap/)  
 [USDA - USFS - RDA](https://www.fs.usda.gov/rds/archive/metadata)  
 [Reference Article](https://wildlife.onlinelibrary.wiley.com/doi/10.1002/wsb.548)  
+[USFS Geospatial Data Discovery](https://data-usfs.hub.arcgis.com/)  
 
 **FGDC**  
 [Content Standard for Digital Geospatial Metadata, Part 1:](https://www.fgdc.gov/standards/projects/metadata/biometadata)  
