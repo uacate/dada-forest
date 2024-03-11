@@ -1,6 +1,6 @@
 <div style='text-align: center; color: #ff0000; font-size: 2.5rem; font-weight: bold;'>DRAFT</div>
 
-# Comprehensive USFS Data Inventory  
+# USFS Data Inventory  
 
 ## Resources  
 
