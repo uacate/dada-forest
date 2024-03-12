@@ -41,7 +41,3 @@ USGS
 Cyverse
 -------
 * [USDA](https://datacommons.cyverse.org/browse/iplant/home/shared/usda)  
-
-Standards
----------
-* [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dces/)  
