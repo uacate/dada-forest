@@ -1,2 +1,6 @@
 mkdocs
 requests
+pydantic
+psycopg2-binary
+sqlalchemy
+alembic
