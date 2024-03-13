@@ -2,6 +2,7 @@ site_name: DADA-Forest
 nav:
   - Home: index.md
   - Metadata Standards: metadata-standards.md
+  - Metadata Examples: metadata-examples.md
   - Needs Analysis: needs-analysis.md
   - About: about.md
 theme: readthedocs
