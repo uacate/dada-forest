@@ -1,6 +1,6 @@
 mkdocs
 requests
-pydantic
+sqlmodel
 psycopg2-binary
-sqlalchemy
-alembic
+python-dotenv
+sentence-transformers
