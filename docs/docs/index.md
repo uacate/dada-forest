@@ -5,8 +5,8 @@ Resources
 
 University of Arizona
 -----------------------  
-* [University of Arizona - azfirescape](https://azfirescape.org){:target="_blank"}  
-* [azfirescape links](https://www.azfirescape.org/home/links.html){:target="_blank"}  
+* [AZFirescape](https://azfirescape.org){:target="_blank"}  
+* [AZFirescape links](https://www.azfirescape.org/home/links.html){:target="_blank"}  
 * [NGDS](https://data.geothermaldata.org/){:target="_blank"}  
 * [chatur](https://chatur.mysticlabs.ai/){:target="_blank"}  
 * [VGS](https://vgs.arizona.edu/){:target="_blank"}  
