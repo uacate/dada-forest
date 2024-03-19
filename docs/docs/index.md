@@ -43,3 +43,5 @@ Cloud / Cyverse
 ---------------
 * [USDA](https://datacommons.cyverse.org/browse/iplant/home/shared/usda)  
 * [SpatioTemporal Asset Catalogs (STAC)](https://github.com/ua-datalab/Geospatial_Workshops/wiki/SpatioTemporal-Asset-Catalogs-(STAC)) - json based metadata and API standard for geospatial data.  Goal is to make geospatial data more easily worked with, indexed and discovered.  Many groups in the geospatial world (e.g, Microsoft, Planet, NASA) have adopted STAC as a metadata standard for sharing their data. When geospatial data is described using STAC standards, the data can be anywhere in cloud storage. Discovery of STAC catalogs happens at central hubs such as [STACIndex.org](https://stacindex.org) and the [Radiant Earch Browser](https://radiantearth.github.io/stac-browser)  
+[Google Earth Engine](https://earthengine.google.com/)  
+[Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/)  
