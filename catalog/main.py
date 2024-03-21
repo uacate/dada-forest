@@ -13,8 +13,8 @@ from psycopg2.errors import UniqueViolation
 load_dotenv()
 
 def create_db_table():
-    pgsql_url = "postgresql://postgres:sql77@localhost/postgres"
-    host = "0.0.0.0"
+    pgsql_url = "postgresql://postgres:sql77@pgsql/postgres"
+    host = "pgsql"
     dbname = "postgres"
     user = "postgres"
     password = "sql77"
@@ -47,7 +47,7 @@ def get_meta_from_url(url):
     return resp_json
 
 def save_meta_data(obj):
-    pgsql_url = "postgresql://postgres:sql77@localhost/postgres"
+    pgsql_url = "postgresql://postgres:sql77@pgsql/postgres"
     with psycopg2.connect(pgsql_url) as conn:
         with conn.cursor() as cursor:
             sql = "INSERT INTO document () "
@@ -59,7 +59,7 @@ def save_meta_data(obj):
 def save_documents(docs):
 
     sql = "INSERT INTO (document) VALUES ()"
-    pgsql_url = "postgresql://postgres:sql77@localhost/postgres"
+    pgsql_url = "postgresql://postgres:sql77@pgsql/postgres"
     with psycopg2.connect(pgsql_url) as conn:
         with conn.cursor() as cursor:
             for doc in docs:
@@ -79,7 +79,7 @@ def query_docs(txt):
     embeddings = f"'[{embeddings}]'"
     sql = f"""SELECT id, title, description, 1 - (embedding <=> {embeddings}) AS cosine_similarity FROM document ORDER BY cosine_similarity DESC"""
 
-    pgsql_url = "postgresql://postgres:sql77@localhost/postgres"
+    pgsql_url = "postgresql://postgres:sql77@pgsql/postgres"
     with psycopg2.connect(pgsql_url) as conn:
         with conn.cursor() as cursor:#
             cursor.execute(sql, embedding)
