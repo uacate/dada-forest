@@ -18,9 +18,17 @@ Interim solution: data subsets in beta on UofA systems and then move those to go
 
 2. Current Performance  
     * Interview subject matter experts  
+        * USDA/USFS personel  
+        * University of Arizona personel  
+        * Others  
     * Interview supervisors to determine current performance from their perspective  
+        * Brian Heidorn (The University of Arizona)  
+        * David Rugg (USDA/USFS)  
+        * Others  
     * Observe work or work outputs of representatives of target audience  
+        * What other data services or catalogs exist at the USDA/USFS or The University of Arizona that could be used as comparisons?  
     * Review relevant self-assessments, reports, lessons learned, near misses, etc, for understanding performance from available sources  
+        * How do we measure success going forward?  
     
 3. Performance Gaps and Causes  
     Use [Carl Binder Six Boxes model](https://www.sixboxes.com/Six-Boxes-Model.html) to determine factors that affect performance or factors that improve performance  
@@ -30,7 +38,6 @@ Interim solution: data subsets in beta on UofA systems and then move those to go
     | 1. Expectations and Feedback   | 2. Tools/Resources/Environment   | 3. Consequences and Incentives  |
     | 4. Skills and Knowledge        | 5. Selection and Assignment      | 6. Motives and Preference       |
     
-
 4. Solutions  
     * Determine what needs are most critical  
     * Determine possible solutions for most critical needs  
