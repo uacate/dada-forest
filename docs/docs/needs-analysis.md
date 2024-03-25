@@ -1,8 +1,5 @@
 <div style='text-align: center; color: #ff0000; font-size: 2.5rem; font-weight: bold;'>DRAFT</div>
 
-## References and Resources  
-[Berkeley Lab Training Needs Analysis Template](https://training.lbl.gov/Resources/docs/NeedsAnalysisProcess.pdf){:target="_blank"}  
-
 1. Desired Performance  
 When data sets become more broadly available through government systems.  
 Interim solution: data subsets in beta on UofA systems and then move those to government systems maintained by current USFS computer staff.  
@@ -31,15 +28,16 @@ Interim solution: data subsets in beta on UofA systems and then move those to go
         * How do we measure success going forward?  
     
 3. Performance Gaps and Causes  
-    Use [Carl Binder Six Boxes model](https://www.sixboxes.com/Six-Boxes-Model.html) to determine factors that affect performance or factors that improve performance  
-
-    |                                |                                  |                                 |
-    | ------------------------------ | -------------------------------- | ------------------------------- |
-    | 1. Expectations and Feedback   | 2. Tools/Resources/Environment   | 3. Consequences and Incentives  |
-    | 4. Skills and Knowledge        | 5. Selection and Assignment      | 6. Motives and Preference       |
     
 4. Solutions  
     * Determine what needs are most critical  
     * Determine possible solutions for most critical needs  
     It is important to include all non-training factors that impede performance so that training is positioned alongside other interventions emphasizing the complimentary and related dependencies that form the recommended solution
     * Prepare a recommendation report  
+
+References and Resources  
+------------------------
+[Berkeley Lab Training Needs Analysis Template](https://training.lbl.gov/Resources/docs/NeedsAnalysisProcess.pdf){:target="_blank"}  
+
+[US Department of Education Example Needs Analysis](https://www2.ed.gov/admins/lead/account/compneedsassessment.pdf){:target="_blank"}  
+
