@@ -8,7 +8,7 @@ When data sets become more broadly available through government systems.
 Interim solution: data subsets in beta on UofA systems and then move those to government systems maintained by current USFS computer staff.  
 
     * Target Group(s)  
-        * USFS
+        * USDA/USFS (et al.)
     * Desired Performance/Behaviors  
         * Measured product usage through system monitoring (e.g., log files, application analytics, ...) 
     * Regulatory Requirements (determine need for training, if applicable)  
@@ -32,7 +32,7 @@ Interim solution: data subsets in beta on UofA systems and then move those to go
     
 
 4. Solutions  
-    * Deterine what needs are most critical  
+    * Determine what needs are most critical  
     * Determine possible solutions for most critical needs  
     It is important to include all non-training factors that impede performance so that training is positioned alongside other interventions emphasizing the complimentary and related dependencies that form the recommended solution
     * Prepare a recommendation report  
