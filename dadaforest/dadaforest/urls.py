@@ -17,9 +17,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 
-admin.autodiscover()
+# admin.autodiscover()
 
 urlpatterns = [
     path('catalog', include('catalog.urls')),
+    path('needsanalysis', include('apps.needs_analysis.urls')),
     path('admin/', admin.site.urls),
 ]
