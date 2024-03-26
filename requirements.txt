@@ -1,0 +1,9 @@
+requests
+psycopg2-binary
+python-dotenv
+sentence-transformers
+pytest
+pytest-sugar
+django
+django-extensions
+Werkzeug
