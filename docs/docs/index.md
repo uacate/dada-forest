@@ -46,3 +46,4 @@ Cloud / Cyverse
 [Google Earth Engine](https://earthengine.google.com/)  
 [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/)  
 [Dug](https://github.com/helxplatform/dug)  
+    [Dug related research article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9991886/)  
