@@ -2,7 +2,7 @@ ARG PG_MAJOR=16
 FROM postgres:$PG_MAJOR
 ARG PG_MAJOR
 COPY ./pgvector /tmp/pgvector
-COPY ./scripts/initdb.sh /docker-entrypoint-initdb.d/initdb.sh
+COPY ./bin/initdb.sh /docker-entrypoint-initdb.d/initdb.sh
 
 RUN apt-get update && \
 		apt-mark hold locales && \
