@@ -7,3 +7,4 @@ site/
 *scratch*
 pgvector/
 .pytest_cache/
+.terraform/
