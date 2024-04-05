@@ -1,6 +1,4 @@
-Apologies, the site has moved [here](https://dada-forest.gitlab.io/docs)  
-
-<!-- <div style='text-align: center; color: #ff0000; font-size: 2.5rem; font-weight: bold;'>DRAFT</div>
+<div style='text-align: center; color: #ff0000; font-size: 2.5rem; font-weight: bold;'>DRAFT</div>
 
 Resources  
 =========  
@@ -48,4 +46,4 @@ Cloud / Cyverse
 [Google Earth Engine](https://earthengine.google.com/)  
 [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/)  
 [Dug](https://github.com/helxplatform/dug)  
-    [Dug related research article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9991886/)   -->
+    [Dug related research article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9991886/)  

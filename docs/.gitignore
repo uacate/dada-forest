@@ -1,0 +1,9 @@
+.env
+*.bak
+*.pyc
+__pycache__/
+venv/
+site/
+*scratch*
+pgvector/
+.pytest_cache/
