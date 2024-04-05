@@ -1,5 +1,3 @@
-<div style='text-align: center; color: #ff0000; font-size: 2.5rem; font-weight: bold;'>DRAFT</div>
-
 1. Desired Performance  
 When data sets become more broadly available through government systems.  
 Interim solution: data subsets in beta on UofA systems and then move those to government systems maintained by current USFS computer staff.  
