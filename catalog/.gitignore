@@ -1,0 +1,12 @@
+.env
+*.bak
+*.pyc
+__pycache__/
+venv/
+site/
+*scratch*
+pgvector/
+.pytest_cache/
+data/
+.ruff_cache/
+*.out
