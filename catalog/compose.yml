@@ -1,0 +1,53 @@
+services:
+  app:
+    container_name: catalog_app
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+      # - app:/src/app
+    tty: true
+    stdin_open: true
+    ports:
+      - 8000:8000
+    # command: "uvicorn main:app --host 0.0.0.0 --reload"
+    command: './manage.py runserver 0.0.0.0:8000'
+    depends_on:
+      - pgdb
+  
+  pgdb:
+    container_name: catalog_pgdb
+    image: ankane/pgvector
+    ports:
+      - "5432:5432"
+    env_file:
+      - .env
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    # restart: always
+
+  caddy:
+    container_name: caddy
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 80:80
+      - 443:443
+    volumes:
+      - ./data/caddy_data:/data
+      - ./data/caddy_config:/config
+    depends_on:
+      - app
+    environment:
+      PROXY_BACKEND: app
+      PROXY_PORT: 8000
+      DOMAIN: ${DOMAIN}
+
+volumes:
+  caddy_data:
+  caddy_config:

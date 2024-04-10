@@ -1,0 +1,12 @@
+
+fire
+python-dotenv
+pytest
+pytest-sugar
+ruff
+psycopg2-binary
+requests
+django
+django-extensions
+django-ninja
+# sentence-transformers

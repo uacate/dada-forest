@@ -12,3 +12,4 @@ pgvector/
 *.pub
 dotf/terraform.tfstate.backup
 dotf/terraform.tfstate
+.ruff_cache/
