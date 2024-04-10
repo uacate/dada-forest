@@ -9,3 +9,6 @@ pgvector/
 .pytest_cache/
 .terraform/
 .terraform.lock.hcl
+*.pub
+dotf/terraform.tfstate.backup
+dotf/terraform.tfstate
